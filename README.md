@@ -1,5 +1,8 @@
-# Getting a glance on the IP:
+# LOWER POWER CMOS COMPARATOR WITH HYSTERESIS
+
 This main aim of this project is to develop a Programmable CMOS current coparator with Hysteresis, i.e., the reference current should be adjustable with a wide range of values without altering the (W/L) values of the MOS transistors. The key idea in developing the circuit is to find parameters in the circuit which are linked directly in the current equation such as a voltage other than the physical parameters. So, we develop a equation in which reference current is a function of a voltage rather than the physical parameters.
+
+# Getting a glance on the IP:
 
 This repository has files needed to design and implement a Programmable CMOS current comparator.
 
